@@ -1,5 +1,2 @@
 # IpTracker
-Visiter Ip Tracker.
-Just Catch visiter Ip and store Database.
-<!-- Visit for Live demo. -->
-<!-- https://suvenducmsa.000webhostapp.com/ -->
+This code will save the ip address database of the visitor who requests this webpage and also the ip soho form fill up details database of the visitor who will fill up this form.
